@@ -36,7 +36,8 @@
   Dashboards
 </h3>
 <img width="1707" height="896" alt="Tableau Dashboard Example 1" src="https://github.com/user-attachments/assets/9bbc6c75-106b-4eee-be8c-2b609b66f7d7" />
-<img width="1711" height="898" alt="Tableau Dashboard Example 2" src="https://github.com/user-attachments/assets/026b7740-8575-469b-be3e-7569d7dc1007" />
+<img width="1708" height="896" alt="Tableau Dashboard Example 2" src="https://github.com/user-attachments/assets/682dbe2c-2db1-40bb-a716-52b6b7a1d81a" />
+
 
 <h2>
   Outcomes
