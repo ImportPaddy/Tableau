@@ -1,8 +1,15 @@
-# Tableau
-A collection of my Tableau projects completed during the Data Bootcamp with Leep Talent.
+<h1>Tableau</h1>
+<p>
+  A collection of my Tableau projects completed during the Data Bootcamp with Leep Talent.
+</p>
 
-
-Spotify Dataset too big to upload to GitHub
-
-Tableau Profile:
-https://public.tableau.com/app/profile/patrick.gittens7742/vizzes
+<h2>
+  Tableau Profile
+</h2>
+<p>
+  You can see all my Tableau dashboards here:
+</p>
+<p>
+  
+  [My Tableau Profile](https://public.tableau.com/app/profile/patrick.gittens7742/vizzes)
+</p>
